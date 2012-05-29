@@ -1,0 +1,7 @@
+---
+layout: post
+title: "hola"
+date: 2012-05-29 02:39
+comments: true
+categories: 
+---
